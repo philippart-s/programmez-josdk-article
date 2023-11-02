@@ -1,2 +1,2 @@
 # programmez-josdk-article
-Code source pour l'article sur les opérateurs JAva dans Kubernetes
+Code source pour l'article sur les opérateurs Java dans Kubernetes
