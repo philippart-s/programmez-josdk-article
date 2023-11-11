@@ -1,0 +1,6 @@
+apiVersion: "wilda.fr/v1"
+kind: HelloWorld
+metadata:
+  name: hello-world
+spec:
+  name: Programmez Mag 👨‍💻
